@@ -1,0 +1,10 @@
+﻿  client.c
+C:\Users\Tom\OneDrive - mail.tau.ac.il\שולחן העבודה\לימודים\הנדסה - אונ' תל אביב\סימסטר ט\מבוא לתקשורת מחשבים\שיעורי בית\מטלת תכנות 1 - הגשה\sep_client\client.c(101,53): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Tom\OneDrive - mail.tau.ac.il\שולחן העבודה\לימודים\הנדסה - אונ' תל אביב\סימסטר ט\מבוא לתקשורת מחשבים\שיעורי בית\מטלת תכנות 1 - הגשה\sep_client\client.c(105,27): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Tom\OneDrive - mail.tau.ac.il\שולחן העבודה\לימודים\הנדסה - אונ' תל אביב\סימסטר ט\מבוא לתקשורת מחשבים\שיעורי בית\מטלת תכנות 1 - הגשה\sep_client\client.c(136,12): warning C4244: '=': conversion from 'SOCKET' to 'int', possible loss of data
+C:\Users\Tom\OneDrive - mail.tau.ac.il\שולחן העבודה\לימודים\הנדסה - אונ' תל אביב\סימסטר ט\מבוא לתקשורת מחשבים\שיעורי בית\מטלת תכנות 1 - הגשה\sep_client\client.c(165,53): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Tom\OneDrive - mail.tau.ac.il\שולחן העבודה\לימודים\הנדסה - אונ' תל אביב\סימסטר ט\מבוא לתקשורת מחשבים\שיעורי בית\מטלת תכנות 1 - הגשה\sep_client\client.c(170,30): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Tom\OneDrive - mail.tau.ac.il\שולחן העבודה\לימודים\הנדסה - אונ' תל אביב\סימסטר ט\מבוא לתקשורת מחשבים\שיעורי בית\מטלת תכנות 1 - הגשה\sep_client\client.c(195,78): warning C4474: 'fprintf' : too many arguments passed for format string
+  sep_client.vcxproj -> C:\Users\Tom\OneDrive - mail.tau.ac.il\שולחן העבודה\לימודים\הנדסה - אונ' תל אביב\סימסטר ט\מבוא לתקשורת מחשבים\שיעורי בית\מטלת תכנות 1 - הגשה\sep_client\x64\Debug\sep_client.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
